@@ -33,6 +33,6 @@ Este é um projeto Hello World para Ionic & Angular, que é uma aplicação de e
 
 A seguir, segue o print das telas do projeto:
 
-![Alt text](./assets/prints/print01.jpg?raw=true "Hello World!")
+![Alt text](./src/assets/prints/print01.jpg?raw=true "Hello World!")
 
-![Alt text](./assets/prints/print02.jpg?raw=true "Hello Dev!")
+![Alt text](./src/assets/prints/print02.jpg?raw=true "Hello Dev!")
