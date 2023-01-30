@@ -6,7 +6,11 @@ import { Component } from '@angular/core';
   styleUrls: ['home.page.scss'],
 })
 export class HomePage {
-
+  message: string = "Hello World!";
   constructor() {}
+
+  messageClickOn(){
+    this.message = "Hello dev, you're welcome here!";
+  }
 
 }
